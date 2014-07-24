@@ -1,4 +1,4 @@
 Linear-regression-example
 ===========================
 
-A linear regression example based on the airquality dataset.
+A linear regression example based on the airquality dataset in R.
